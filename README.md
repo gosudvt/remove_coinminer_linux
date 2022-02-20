@@ -1,0 +1,2 @@
+# remove_coinminer_linux
+remove_coinminer_linux
